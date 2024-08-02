@@ -1,24 +1,21 @@
 # Hi! I'm Geneño Sampayan (Gen) 👋
-
 **`(Software QA Tester/Aspiring MERN Stack Developer)`**
-<br>
 
-### 🧰 Languages and Tools
+## Let's Connect
+- [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:geneno.sampayan@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gene%C3%B1o-sampayan/)
+- [![Phone Number](https://img.shields.io/badge/Phone-+639567643645-blue)](tel:+639567643645)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br>
+## TECHNICAL SKILLS
+- Languages: JavaScript, HTML, CSS
+- Frameworks: Express.js, TailwindCSS, Bootstrap
+- Libraries: React, Material-UI
+- Databases: MongoDB
+- Technologies: Node.js, REST APIs, Git, GitHub, GitLab
+- Testing: Jest, Cypress, Postman
+- Bug Tracking: Jira, Backlog
+- Quality Assurance: Requirement Analysis, Manual Testing, Regression Testing, API Testing
 
-<br>
-
-### 📊 Stats
-
-![gensampayan's Stats](https://github-readme-stats.vercel.app/api?username=gensampayan&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-
-![gensampayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gensampayan&theme=dark&hide_border=true) 
-
-![gensampayan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gensampayan&theme=dark&show_icons=true&hide_border=true&count)
+## Work Experience
+- Software QA Tester - MVP.dev | Jul 2023 - Mar 2024
+- Software QA - Sun Asterisk Philippines | Oct 2021 - May 2023
