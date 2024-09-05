@@ -1,5 +1,5 @@
 # Hi! I'm Geneño Sampayan (Gen) 👋
-**`(Software QA Tester/Aspiring MERN Stack Developer)`**
+**`(Software QA Tester/Full Stack Web Developer)`**
 
 ## Connect
 - [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:geneno.sampayan@gmail.com)
@@ -13,12 +13,12 @@
 - Languages: JavaScript, HTML, CSS
 - Frameworks: Express.js, TailwindCSS, Bootstrap
 - Libraries: React, Material-UI
-- Databases: MongoDB
+- Databases: MySQL, MongoDB
 - Technologies: Node.js, REST APIs, Git, GitHub, GitLab
-- Testing: Jest, Cypress, Postman
+- Testing: Cypress, Postman
 - Bug Tracking: Jira, Backlog
 - Quality Assurance: Requirement Analysis, Manual Testing, Regression Testing, API Testing
 
-## Independent Courses
+## Coding Certificate
 - Uplift Code Camp: Full stack Web Development Bootcamp
 - Scrimba: The Frontend Developer Career Path
