@@ -1,5 +1,5 @@
 # Hi! I'm Geneño (Gen) Sampayan 👋🏻
-### Software QA Engineer | Automation Tester
+### Software QA Engineer
 
 ## Let's Connect
 - geneno.sampayan@gmail.com
@@ -11,9 +11,8 @@
 - Software QA - Sun Asterisk Philippines | Oct 2021 - May 2023
 
 ## Technical Skills
-- Quality Assurance: Requirement Analysis, Test Planning, Test Case Generation, Test Execution, Test Closure, Scrum, Agile Methodologies, Communication, Collaboration
-- Testing Techniques: Manual Testing, Black Box Testing, Functional Testing, API Testing, Integration Testing, System Testing, Automation Testing
-- Tools: Jira, Backlog, Team Foundation Server, Cypress, Selenium
+- Testing Techniques: Manual Testing, API Testing, Integration Testing, System Testing, Smoke Testing, Regression Testing, Automation Testing, Agile Methodology, Waterfall Methodology
+- Tools: DevTools, Excel, Jira, Backlog, Qase, BrowserStack, TFS, Postman, Git, GitHub
 - Languages: JavaScript, Java, HTML, CSS
 - Databases: MySQL, MongoDB
-- Technologies: REST API, Git, GitHub, Postman
+- Technologies: REST APIs
