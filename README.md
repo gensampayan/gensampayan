@@ -1,18 +1,24 @@
-# Hi! I'm Geneño (Gen) Sampayan 👋🏻
-### Software QA Engineer
+# Hi! I'm Geneño (Gen) Sampayan👋🏻
+#### Software QA Engineer
 
 ## Let's Connect
 - geneno.sampayan@gmail.com
-- https://www.linkedin.com/in/gensampayan/
-
-## Work Experience
-- Software QA Engineer - Alliance Software Inc. | Nov 2024 - Present
-- Software QA Tester - MVP.dev | Jul 2023 - Mar 2024
-- Software QA - Sun Asterisk Philippines | Oct 2021 - May 2023
+- https://www.linkedin.com/in/gensampayan
 
 ## Technical Skills
-- Testing Techniques: Manual Testing, API Testing, Integration Testing, System Testing, Smoke Testing, Regression Testing, Automation Testing, Agile Methodology, Waterfall Methodology
-- Tools: DevTools, Excel, Jira, Backlog, Qase, BrowserStack, TFS, Postman, Git, GitHub
-- Languages: JavaScript, Java, HTML, CSS
-- Databases: MySQL, MongoDB
-- Technologies: REST APIs
+- Testing Approaches: Manual Testing, Automation Testing, API Testing, Integration Testing, System Testing, Smoke Testing, Regression Testing, Agile Methodology, Waterfall Methodology
+- Tools: GitHub, Azure DevOps Server, Qase, Jira, Backlog, Trello, Selenium, Cypress, BrowserStack, Postman, Bubble.io Debugger, DevTools, Excel, SkySpeed
+- Languages: JavaScript, HTML, CSS
+- Databases: MySQL, MSSQL
+- Technologies: Git, REST APIs
+
+## Work Experience
+- #### Alliance Software Inc.
+  - Software QA Engineer
+  - November 2024 – October 2025 (1 year)                                                                                      
+- #### MVP.dev
+  - Software QA Tester                                                                                       
+  - July 2023 – March 2024 (9 months)
+- #### Sun Asterisk Philippines
+  - Software QA                              
+  - October 2021 – May 2023 (1 year 8 months)   
