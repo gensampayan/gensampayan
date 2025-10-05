@@ -7,7 +7,7 @@
 
 ## Technical Skills
 - Testing Approaches: Manual Testing, Automation Testing, API Testing, Integration Testing, System Testing, Smoke Testing, Regression Testing, Agile Methodology, Waterfall Methodology
-- Tools: GitHub, Azure DevOps Server, Qase, Jira, Backlog, Trello, Selenium, Cypress, BrowserStack, Postman, Bubble.io Debugger, DevTools, Excel, SkySpeed
+- Tools: GitHub, Azure DevOps Server, Qase, Jira, Backlog, Trello, Cypress, BrowserStack, Postman, Bubble.io Debugger, DevTools, Excel, SkySpeed
 - Languages: JavaScript, HTML, CSS
 - Databases: MySQL, MSSQL
 - Technologies: Git, REST APIs
